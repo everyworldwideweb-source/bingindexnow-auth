@@ -1,0 +1,1 @@
+# bingindexnow-auth
